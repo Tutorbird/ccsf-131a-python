@@ -1,0 +1,39 @@
+############################
+Testing...1, 2, 3...testing!
+############################
+
+#####################################
+Creating//Initializing 5 Spam objects
+#####################################
+
+###########################
+Printing all 5 Spam objects
+###########################
+
+Soap 2.99
+Conditioner 4.79
+Shampoo 4.29
+Luffa 1.5
+Toothpaste 1.99 
+
+#################################################
+Testing accessor methods: total_cost, items_count
+#################################################
+
+Total Cost:  15.56
+Item Count:  5
+Total Cost:  15.56
+Item Count:  5
+Toothbruch 1.99
+##################################
+Instance count should be unchanged
+##################################
+
+###########################################
+Total cost should change after modification
+###########################################
+
+Total Cost:  14.56
+Item Count:  5
+Total Cost:  14.56
+Item Count:  5

@@ -1,0 +1,13 @@
+  1 Hurricane Jelly Beans                    jelly beans               abc123 1.00
+  2 Typhoon Model Boat                       plastic model boat        abc456 12.00
+  3 Supermarine Spitfire                     plastic model airplane    bcd123 3.00
+  4 ENIAC                                    model of first computer   bcd456 21.00
+  5 Evian                                    water                     hjd323 6.00
+  6 Blue Coffee                              cold brew coffee          jhb388 5.00
+  7 Trader Joe's Habanero Sauce              spicy sauce               jij363 3.90
+  8 Donna Hay: Simple Essentials, Chocolate  chocolate cookbook        lol737 21.00
+  9 TI-84 Silver Edition                     graphing calculator       mjm734 91.00
+ 10 Apple-smoked Bacon                       bacon                     rej232 4.50
+ 11 Rubbing Alcohol                          rubbing alcohol           mdj328 2.99
+ 12 Ye Olde Style Brownies                   brownies                  euf482 5.00
+ 13 Memento                                  movie about memories      ehe742 10.00
